@@ -1,0 +1,8 @@
+---
+title: "Nummer 2"
+author: "Marcel Hanschmann"
+date: "2023-12-10"
+categories: [technik, news]
+---
+
+Der zweite

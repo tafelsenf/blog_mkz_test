@@ -1,0 +1,15 @@
+---
+title: "Über Uns"
+image: images/logo_mkz.jpg
+about:
+  template: jolla
+  image-shape: rounded
+  links:
+    - icon: tuc
+      text: TU Chemnitz
+      href: https://www.tu-chemnitz.de/hsw/mkz/
+---
+
+Dies ist der offizielle Blog des MethodenKompetenzZentrums
+
+Hier folgt eine Vorstellung des MKZ und des Inhalts des Blogs
