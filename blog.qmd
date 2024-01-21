@@ -1,5 +1,7 @@
 ---
 title: "Blog des MethodenKompetenzZentrums"
+background: light
+lang: de
 listing:
   contents: posts
   sort: "date desc"
