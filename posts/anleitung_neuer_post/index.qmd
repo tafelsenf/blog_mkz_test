@@ -1,0 +1,15 @@
+---
+title: "HowToBlog #1: neuer Blog Post"
+author: "Marcel Hanschmann"
+date: "2024-01-21"
+categories: [HowToBlog]
+freeze: true
+---
+
+1.  create new Folder in posts directory
+
+2.  create new index.qmd file
+
+3.  add Metadata to index.qmd (or copy and edit from other post)
+
+4.  add content
