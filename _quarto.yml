@@ -4,7 +4,7 @@ project:
   
 website:
   title: "MKZ Blog"
-  description: "Offizieler Blog des MKZ"
+  description: "Blog des MKZ"
   navbar:
     background: primary
     right:
