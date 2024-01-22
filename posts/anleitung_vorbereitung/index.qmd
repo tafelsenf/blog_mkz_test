@@ -1,0 +1,21 @@
+---
+title: "HowToBlog #1: Arbeitsumgebung einrichten"
+author: "Marcel Hanschmann"
+date: "2024-01-21"
+categories: [HowToBlog]
+freeze: true
+---
+
+You will need:
+
+-   git
+
+-   R
+
+-   RStudio
+
+-   RTools
+
+-   Quarto for RStudio
+
+Make sure everything is on the latest Version (or when below then check if versions are compatible)
