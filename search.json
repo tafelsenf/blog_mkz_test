@@ -23,7 +23,7 @@
   {
     "objectID": "posts/anleitung_neuer_post/index.html",
     "href": "posts/anleitung_neuer_post/index.html",
-    "title": "HowToBlog #1: neuer Blog Post",
+    "title": "HowToBlog #2: publish new post",
     "section": "",
     "text": "create new Folder in posts directory\ncreate new index.qmd file\nadd Metadata to index.qmd (or copy and edit from other post)\nadd content\n…\nprofit"
   },
@@ -39,7 +39,7 @@
     "href": "blog.html",
     "title": "Blog des MethodenKompetenzZentrums",
     "section": "",
-    "text": "Sortieren nach\n       Voreinstellung\n         \n          Titel\n        \n         \n          Datum - Datum (aufsteigend)\n        \n         \n          Datum - Neueste\n        \n         \n          Autor:in\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nHowToBlog #1: neuer Blog Post\n\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nHowToBlog #1: Arbeitsumgebung einrichten\n\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nmehr Käse\n\n\n\n\n\n\n\nKäse\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n\n\n14.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nKäse\n\n\n\n\n\n\n\nKäse\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n\n\n12.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nSchlaglöcher\n\n\n\n\n\n\n\nKlassiker\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n\n\n01.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\n13.12.2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nNummer 2\n\n\n\n\n\n\n\ntechnik\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n10.12.2023\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nNummer 1\n\n\n\n\n\n\n\ntechnik\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n10.12.2023\n\n\nMarcel Hanschmann\n\n\n\n\n\n\nKeine Treffer"
+    "text": "Sortieren nach\n       Voreinstellung\n         \n          Titel\n        \n         \n          Datum - Datum (aufsteigend)\n        \n         \n          Datum - Neueste\n        \n         \n          Autor:in\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nHowToBlog #2: publish new post\n\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nHowToBlog #1: setup work environment\n\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nmehr Käse\n\n\n\n\n\n\n\nKäse\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n\n\n14.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nKäse\n\n\n\n\n\n\n\nKäse\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n\n\n12.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nSchlaglöcher\n\n\n\n\n\n\n\nKlassiker\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n\n\n01.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\n13.12.2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nNummer 2\n\n\n\n\n\n\n\ntechnik\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n10.12.2023\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nNummer 1\n\n\n\n\n\n\n\ntechnik\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n10.12.2023\n\n\nMarcel Hanschmann\n\n\n\n\n\n\nKeine Treffer"
   },
   {
     "objectID": "posts/schlagloch/index.html",
@@ -65,8 +65,8 @@
   {
     "objectID": "posts/anleitung_vorbereitung/index.html",
     "href": "posts/anleitung_vorbereitung/index.html",
-    "title": "HowToBlog #1: Arbeitsumgebung einrichten",
+    "title": "HowToBlog #1: setup work environment",
     "section": "",
-    "text": "You will need:\n\ngit\nR\nRStudio\nRTools\nQuarto for RStudio\n\nMake sure everything is on the latest Version (or when below then check if versions are compatible)"
+    "text": "You will need:\n\ngit (https://git-scm.com/downloads)\nR (https://cran.r-project.org/)\nRStudio (https://posit.co/download/rstudio-desktop/)&lt;\nRTools (https://cran.r-project.org/bin/windows/Rtools/)\nQuarto (https://quarto.org/docs/get-started/)\n\nDownload and install software. If you already have some of it, then make sure everything is the latest version.\n\n\nWhen using Windows, install RStudio and RTools to C:\\\n(default path: C:\\program files\\ may cause errors)"
   }
 ]
