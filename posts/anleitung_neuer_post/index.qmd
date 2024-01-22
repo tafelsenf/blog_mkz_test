@@ -1,5 +1,3 @@
-------------------------------------------------------------------------
-
 ---
 title: "HowToBlog #1: neuer Blog Post"
 author: "Marcel Hanschmann"

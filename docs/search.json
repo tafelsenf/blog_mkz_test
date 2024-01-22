@@ -21,18 +21,25 @@
     "text": "Heute: noch mehr Käse\n\nauch dabei: Maasdamer"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Über Uns",
+    "objectID": "posts/anleitung_neuer_post/index.html",
+    "href": "posts/anleitung_neuer_post/index.html",
+    "title": "HowToBlog #1: neuer Blog Post",
     "section": "",
-    "text": "Dies ist der offizielle Blog des MethodenKompetenzZentrums\nHier folgt eine Vorstellung des MKZ und des Inhalts des Blogs"
+    "text": "create new Folder in posts directory\ncreate new index.qmd file\nadd Metadata to index.qmd (or copy and edit from other post)\nadd content\n…\nprofit"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog des MethodenKompetenzZentrums",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nmehr Käse\n\n\n\n\n\n\nKäse\n\n\nLöcher\n\n\n\n\n\n\n\n\n\nJan 14, 2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nKäse\n\n\n\n\n\n\nKäse\n\n\nLöcher\n\n\n\n\n\n\n\n\n\nJan 12, 2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nSchlaglöcher\n\n\n\n\n\n\nKlassiker\n\n\nLöcher\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 13, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nNummer 1\n\n\n\n\n\n\ntechnik\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 10, 2023\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nNummer 2\n\n\n\n\n\n\ntechnik\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 10, 2023\n\n\nMarcel Hanschmann\n\n\n\n\n\n\nNo matching items"
+    "text": "Sortieren nach\n       Voreinstellung\n         \n          Titel\n        \n         \n          Datum - Datum (aufsteigend)\n        \n         \n          Datum - Neueste\n        \n         \n          Autor:in\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nHowToBlog #1: neuer Blog Post\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nmehr Käse\n\n\n\n\n\n\nKäse\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n14.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nKäse\n\n\n\n\n\n\nKäse\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n12.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nSchlaglöcher\n\n\n\n\n\n\nKlassiker\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n01.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n13.12.2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nNummer 1\n\n\n\n\n\n\ntechnik\n\n\nnews\n\n\n\n\n\n\n\n\n\n10.12.2023\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nNummer 2\n\n\n\n\n\n\ntechnik\n\n\nnews\n\n\n\n\n\n\n\n\n\n10.12.2023\n\n\nMarcel Hanschmann\n\n\n\n\n\n\nKeine Treffer"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Über Uns",
+    "section": "",
+    "text": "Dies ist der offizielle Blog des MethodenKompetenzZentrums\nHier folgt eine Vorstellung des MKZ und des Inhalts des Blogs"
   },
   {
     "objectID": "posts/erster/index.html",
