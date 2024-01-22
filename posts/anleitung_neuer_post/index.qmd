@@ -1,4 +1,4 @@
----
+------------------------------------------------------------------------
 
 ---
 title: "HowToBlog #1: neuer Blog Post"
@@ -14,4 +14,8 @@ freeze: true
 
 3.  add Metadata to index.qmd (or copy and edit from other post)
 
-4.  add content 2
+4.  add content
+
+5.  ...
+
+6.  profit
