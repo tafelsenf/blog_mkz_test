@@ -1,5 +1,5 @@
 ---
-title: "HowToBlog #1: neuer Blog Post"
+title: "HowToBlog #2: publish new post"
 author: "Marcel Hanschmann"
 date: "2024-01-21"
 categories: [HowToBlog]

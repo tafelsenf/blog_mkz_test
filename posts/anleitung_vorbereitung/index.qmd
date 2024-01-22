@@ -1,21 +1,25 @@
 ---
-title: "HowToBlog #1: Arbeitsumgebung einrichten"
+title: "HowToBlog #1: setup work environment"
 author: "Marcel Hanschmann"
 date: "2024-01-21"
 categories: [HowToBlog]
 freeze: true
 ---
 
-You will need:
+> You will need:
+>
+> -   git (<https://git-scm.com/downloads>)
+>
+> -   R (<https://cran.r-project.org/>)
+>
+> -   RStudio (<https://posit.co/download/rstudio-desktop/>)\<
+>
+> -   RTools (<https://cran.r-project.org/bin/windows/Rtools/>)
+>
+> -   Quarto (<https://quarto.org/docs/get-started/>)
+>
+> Download and install software. If you already have some of it, then make sure everything is the latest version.
 
--   git
-
--   R
-
--   RStudio
-
--   RTools
-
--   Quarto for RStudio
-
-Make sure everything is on the latest Version (or when below then check if versions are compatible)
+> When using Windows, install RStudio and RTools to C:\\
+>
+> (default path: C:\\program files\\ may cause errors)
