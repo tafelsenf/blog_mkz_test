@@ -67,6 +67,6 @@
     "href": "posts/anleitung_vorbereitung/index.html",
     "title": "HowToBlog #1: setup work environment",
     "section": "",
-    "text": "You will need:\n\ngit (https://git-scm.com/downloads)\nR (https://cran.r-project.org/)\nRStudio (https://posit.co/download/rstudio-desktop/)&lt;\nRTools (https://cran.r-project.org/bin/windows/Rtools/)\nQuarto (https://quarto.org/docs/get-started/)\n\nDownload and install software. If you already have some of it, then make sure everything is the latest version.\n\n\nWhen using Windows, install RStudio and RTools to C:\\\n(default path: C:\\program files\\ may cause errors)"
+    "text": "You will need:\n\ngit (https://git-scm.com/downloads)\nR (https://cran.r-project.org/)\nRStudio (https://posit.co/download/rstudio-desktop/)&lt;\nRTools (https://cran.r-project.org/bin/windows/Rtools/)\nQuarto (https://quarto.org/docs/get-started/)\n\nDownload and install software. If you already have some of it, then make sure everything is the latest version.\n\n\nWhen using Windows, install RStudio and RTools to C:\\\n(default path: C:\\program files\\ may cause errors\n\nnmn"
   }
 ]
