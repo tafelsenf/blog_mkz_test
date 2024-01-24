@@ -22,4 +22,6 @@ freeze: true
 
 > When using Windows, install RStudio and RTools to C:\\
 >
-> (default path: C:\\program files\\ may cause errors)
+> (default path: C:\\program files\\ may cause errors
+
+nmn
