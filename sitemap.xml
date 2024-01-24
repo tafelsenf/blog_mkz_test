@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/erster/index.html</loc>
-    <lastmod>2024-01-24T12:01:04.603Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/zweiter/index.html</loc>
-    <lastmod>2024-01-24T12:01:04.103Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/mehr-käse/index.html</loc>
-    <lastmod>2024-01-24T12:01:03.435Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/anleitung_neuer_post/index.html</loc>
-    <lastmod>2024-01-24T12:01:02.959Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tafelsenf/blog_mkz_test/index.html</loc>
-    <lastmod>2024-01-24T12:01:02.455Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tafelsenf/blog_mkz_test/blog.html</loc>
-    <lastmod>2024-01-24T12:01:01.907Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/schlagloch/index.html</loc>
-    <lastmod>2024-01-24T12:01:02.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/käse/index.html</loc>
-    <lastmod>2024-01-24T12:01:03.191Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/post-with-code/index.html</loc>
-    <lastmod>2024-01-24T12:01:03.875Z</lastmod>
+    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/irgendwie/index.html</loc>
+    <lastmod>2024-01-24T12:53:58.999Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/tafelsenf/blog_mkz_test/posts/anleitung_vorbereitung/index.html</loc>
-    <lastmod>2024-01-24T12:01:04.367Z</lastmod>
+    <lastmod>2024-01-24T12:53:58.503Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/post-with-code/index.html</loc>
+    <lastmod>2024-01-24T12:53:57.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/käse/index.html</loc>
+    <lastmod>2024-01-24T12:53:57.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/schlagloch/index.html</loc>
+    <lastmod>2024-01-24T12:53:56.807Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tafelsenf/blog_mkz_test/blog.html</loc>
+    <lastmod>2024-01-24T12:53:55.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tafelsenf/blog_mkz_test/index.html</loc>
+    <lastmod>2024-01-24T12:53:56.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/anleitung_neuer_post/index.html</loc>
+    <lastmod>2024-01-24T12:53:57.075Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/mehr-käse/index.html</loc>
+    <lastmod>2024-01-24T12:53:57.567Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/zweiter/index.html</loc>
+    <lastmod>2024-01-24T12:53:58.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tafelsenf/blog_mkz_test/posts/erster/index.html</loc>
+    <lastmod>2024-01-24T12:53:58.751Z</lastmod>
   </url>
 </urlset>
