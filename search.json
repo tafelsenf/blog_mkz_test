@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "posts/irgendwie/index.html",
-    "href": "posts/irgendwie/index.html",
-    "title": "irgendiw",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog des MethodenKompetenzZentrums",
     "section": "",
-    "text": "test\ntest\ntest"
+    "text": "Sortieren nach\n       Voreinstellung\n         \n          Titel\n        \n         \n          Datum - Datum (aufsteigend)\n        \n         \n          Datum - Neueste\n        \n         \n          Autor:in\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nHowToBlog #1: setup work environment\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nHowToBlog #2: publish new post\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\nKeine Treffer"
   },
   {
     "objectID": "posts/anleitung_vorbereitung/index.html",
@@ -12,34 +12,6 @@
     "title": "HowToBlog #1: setup work environment",
     "section": "",
     "text": "You will need:\n\ngit (https://git-scm.com/downloads)\nR (https://cran.r-project.org/)\nRStudio (https://posit.co/download/rstudio-desktop/)&lt;\nRTools (https://cran.r-project.org/bin/windows/Rtools/)\nQuarto (https://quarto.org/docs/get-started/)\n\nDownload and install software. If you already have some of it, then make sure everything is the latest version.\n\n\nWhen using Windows, install RStudio and RTools to C:\\\n(default path: C:\\program files\\ may cause errors\n\nnmn"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/käse/index.html",
-    "href": "posts/käse/index.html",
-    "title": "Käse",
-    "section": "",
-    "text": "Heute: noch mehr Käse\n\nauch dabei: Maasdamer"
-  },
-  {
-    "objectID": "posts/schlagloch/index.html",
-    "href": "posts/schlagloch/index.html",
-    "title": "Schlaglöcher",
-    "section": "",
-    "text": "Schlaglöcher!\n\nPfützen- Schmutz oder Biotop?\n\nerfahren Sie mehr\n…\n…\n\n\nAußerdem: noch mehr Schlaglöcher"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog des MethodenKompetenzZentrums",
-    "section": "",
-    "text": "Sortieren nach\n       Voreinstellung\n         \n          Titel\n        \n         \n          Datum - Datum (aufsteigend)\n        \n         \n          Datum - Neueste\n        \n         \n          Autor:in\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nHowToBlog #2: publish new post\n\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nHowToBlog #1: setup work environment\n\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nirgendiw\n\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nmehr Käse\n\n\n\n\n\n\n\nKäse\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n\n\n14.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nKäse\n\n\n\n\n\n\n\nKäse\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n\n\n12.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nSchlaglöcher\n\n\n\n\n\n\n\nKlassiker\n\n\nLöcher\n\n\n\n\n\n\n\n\n\n\n\n01.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\n13.12.2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nNummer 2\n\n\n\n\n\n\n\ntechnik\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n10.12.2023\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n  \n\n\n\n\nNummer 1\n\n\n\n\n\n\n\ntechnik\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n10.12.2023\n\n\nMarcel Hanschmann\n\n\n\n\n\n\nKeine Treffer"
   },
   {
     "objectID": "index.html",
@@ -54,26 +26,5 @@
     "title": "HowToBlog #2: publish new post",
     "section": "",
     "text": "create new Folder in posts directory\ncreate new index.qmd file\nadd Metadata to index.qmd (or copy and edit from other post)\nadd content\n…\nprofit"
-  },
-  {
-    "objectID": "posts/mehr-käse/index.html",
-    "href": "posts/mehr-käse/index.html",
-    "title": "mehr Käse",
-    "section": "",
-    "text": "Heute: Käse\n\nschon wieder: Maasdamer"
-  },
-  {
-    "objectID": "posts/zweiter/index.html",
-    "href": "posts/zweiter/index.html",
-    "title": "Nummer 2",
-    "section": "",
-    "text": "Der zweite"
-  },
-  {
-    "objectID": "posts/erster/index.html",
-    "href": "posts/erster/index.html",
-    "title": "Nummer 1",
-    "section": "",
-    "text": "Der erste von vielen"
   }
 ]

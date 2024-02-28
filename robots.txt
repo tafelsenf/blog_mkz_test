@@ -1,1 +1,1 @@
-Sitemap: https://github.com/tafelsenf/blog_mkz_test/sitemap.xml
+Sitemap: https://tafelsenf.github.io/blog_mkz_test/sitemap.xml
