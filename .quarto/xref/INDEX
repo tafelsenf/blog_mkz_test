@@ -40,5 +40,17 @@
   },
   "posts/mehr-käse/index.qmd": {
     "index.html": "5f27063d"
+  },
+  "posts/anleitung_vorbereitung/index.qmd": {
+    "index.html": "9f38d730"
+  },
+  "menu/projects/project_!/index.qmd": {
+    "index.html": "50439cb6"
+  },
+  "menu/projects/project_1/index.qmd": {
+    "index.html": "abc78c79"
+  },
+  "menu/curses/R_rookie/index.qmd": {
+    "index.html": "0d730807"
   }
 }
