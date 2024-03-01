@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tafelsenf.github.io/blog_mkz_test/blog.html</loc>
-    <lastmod>2024-02-28T10:46:45.509Z</lastmod>
+    <lastmod>2024-03-01T04:03:06.317Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tafelsenf.github.io/blog_mkz_test/menu/curses/R_rookie/index.html</loc>
+    <lastmod>2024-03-01T04:03:06.333Z</lastmod>
   </url>
   <url>
     <loc>https://tafelsenf.github.io/blog_mkz_test/posts/anleitung_vorbereitung/index.html</loc>
-    <lastmod>2024-02-28T10:46:45.525Z</lastmod>
+    <lastmod>2024-03-01T04:03:06.333Z</lastmod>
   </url>
   <url>
     <loc>https://tafelsenf.github.io/blog_mkz_test/index.html</loc>
-    <lastmod>2024-02-28T10:46:45.525Z</lastmod>
+    <lastmod>2024-03-01T04:03:06.333Z</lastmod>
   </url>
   <url>
     <loc>https://tafelsenf.github.io/blog_mkz_test/posts/anleitung_neuer_post/index.html</loc>
-    <lastmod>2024-02-28T10:46:45.525Z</lastmod>
+    <lastmod>2024-03-01T04:03:06.333Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tafelsenf.github.io/blog_mkz_test/menu/projects/project_1/index.html</loc>
+    <lastmod>2024-03-01T04:03:06.333Z</lastmod>
   </url>
 </urlset>

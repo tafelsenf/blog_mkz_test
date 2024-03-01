@@ -4,7 +4,14 @@
     "href": "blog.html",
     "title": "Blog des MethodenKompetenzZentrums",
     "section": "",
-    "text": "Sortieren nach\n       Voreinstellung\n         \n          Titel\n        \n         \n          Datum - Datum (aufsteigend)\n        \n         \n          Datum - Neueste\n        \n         \n          Autor:in\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nHowToBlog #1: setup work environment\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nHowToBlog #2: publish new post\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\nKeine Treffer"
+    "text": "Sortieren nach\n       Voreinstellung\n         \n          Titel\n        \n         \n          Datum - Datum (aufsteigend)\n        \n         \n          Datum - Neueste\n        \n         \n          Autor:in\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nHowToBlog #1: setup work environment\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nHowToBlog #2: publish new post\n\n\n\n\n\n\nHowToBlog\n\n\n\npublish a new blog post\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\nKeine Treffer"
+  },
+  {
+    "objectID": "menu/curses/R_rookie/index.html",
+    "href": "menu/curses/R_rookie/index.html",
+    "title": "R für Rookies",
+    "section": "",
+    "text": "Hier folgen alle Informationen zu R für Rookies\nListe aller zugehörigen Posts"
   },
   {
     "objectID": "posts/anleitung_vorbereitung/index.html",
@@ -26,5 +33,12 @@
     "title": "HowToBlog #2: publish new post",
     "section": "",
     "text": "create new Folder in posts directory\ncreate new index.qmd file\nadd Metadata to index.qmd (or copy and edit from other post)\nadd content\n…\nprofit"
+  },
+  {
+    "objectID": "menu/projects/project_1/index.html",
+    "href": "menu/projects/project_1/index.html",
+    "title": "Projekt 1",
+    "section": "",
+    "text": "Hier folgen alle Informationen zu Projekt 1.\nListe aller zugehörigen Posts"
   }
 ]

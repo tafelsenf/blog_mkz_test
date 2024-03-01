@@ -1,1 +1,22 @@
 /* css styles */
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -1px;
+
+}
+
+.quarto-title-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -30px;
+  
+  height: 100%;
+}
+
+.quarto-title-meta column-page{
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -30px;
+
+}
