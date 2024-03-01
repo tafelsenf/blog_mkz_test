@@ -3,18 +3,32 @@ project:
   output-dir: docs
   
 website:
-  title: "MKZ Blog"
+  title: "Blog des MKZ"
   description: "Blog des MKZ"
   navbar:
-    background: primary
-    right:
+    title: "MKZ"
+    logo: /images/logo_mkz.jpg
+    background: "#0075bf"
+    left: 
       - text: Blog
         href: blog.html
+      - text: Projekte
+        menu: 
+          - text: P1
+            href: menu/projects/project_1/index.qmd
+      - text: Kurse
+        menu: 
+          - text: "R [beginner]"
+            href: menu/curses/R_rookie/index.qmd
+    right:
       - icon: twitter
         href: https://twitter.com
+    pinned: true
 format:
   html:
-    theme: cosmo
+    theme: 
+      dark: darkly
+      light: [flatly, custom_theme.scss]
     css: styles.css
 
 editor: visual

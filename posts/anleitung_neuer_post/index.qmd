@@ -2,6 +2,7 @@
 title: "HowToBlog #2: publish new post"
 author: "Marcel Hanschmann"
 date: "2024-01-21"
+description: "publish a new blog post"
 categories: [HowToBlog]
 freeze: true
 ---

@@ -1,0 +1,11 @@
+---
+title: "R für Rookies"
+categories: [Kurse,R]
+freeze: true
+page-layout: full
+title-block-banner: true
+---
+
+Hier folgen alle Informationen zu R für Rookies
+
+Liste aller zugehörigen Posts

@@ -1,0 +1,9 @@
+---
+title: "Projekt 1"
+categories: [Projekte]
+freeze: true
+---
+
+Hier folgen alle Informationen zu Projekt 1.
+
+Liste aller zugehörigen Posts

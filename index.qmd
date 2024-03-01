@@ -1,6 +1,6 @@
 ---
 title: "Über Uns"
-image: images/logo_mkz.jpg
+image: /images/logo_mkz.jpg
 about:
   template: jolla
   image-shape: rounded
