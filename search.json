@@ -11,7 +11,7 @@
     "href": "posts/anleitung_vorbereitung/index.html",
     "title": "HowToBlog #1: setup work environment",
     "section": "",
-    "text": "You will need:\n\ngit (https://git-scm.com/downloads)\nR (https://cran.r-project.org/)\nRStudio (https://posit.co/download/rstudio-desktop/)&lt;\nRTools (https://cran.r-project.org/bin/windows/Rtools/)\nQuarto (https://quarto.org/docs/get-started/)\n\nDownload and install software. If you already have some of it, then make sure everything is the latest version.\n\n\nWhen using Windows, install RStudio and RTools to C:\\\n(default path: C:\\program files\\ may cause errors\n\nnmn"
+    "text": "You will need:\n\ngit (https://git-scm.com/downloads)\nR (https://cran.r-project.org/)\nRStudio (https://posit.co/download/rstudio-desktop/)&lt;\nRTools (https://cran.r-project.org/bin/windows/Rtools/)\nQuarto (https://quarto.org/docs/get-started/)\n\nDownload and install software. If you already have some of it, then make sure everything is the latest version.\n\n\nWhen using Windows, install RStudio and RTools to C:\\\n(default path: C:\\program files\\ may cause errors\n\n\nin github:\n\nget invited to organisation and accept\n\n\n\nin RStudio:\n\ninstall needed packages\ncreate new Project\n\nuse version control and git\npaste git directory\n\nset git name, email in terminal:\n\ngit config –global user.email “your Email”\ngit config –global user.name “Your Name”\n(omit “–global” to set only for current project\n\ncreate pat in github, copy pat_string (save somewhere, because you can’t see it in github later\nset PAT: in console: gitcreds::gitcreds_set(), than insert pat string"
   },
   {
     "objectID": "menu/projects/project_1/index.html",
