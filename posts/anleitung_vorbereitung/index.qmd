@@ -24,4 +24,28 @@ freeze: true
 >
 > (default path: C:\\program files\\ may cause errors
 
-nmn
+> in github:
+>
+> -   get invited to organisation and accept
+
+> in RStudio:
+>
+> -   install needed packages
+>
+> -   create new Project
+>
+>     -   use version control and git
+>
+>     -   paste git directory
+>
+> -   set git name, email in terminal:
+>
+>     -   git config --global user.email "your Email"
+>
+>     -   git config --global user.name "Your Name"
+>
+>     -   (omit "--global" to set only for current project
+>
+> -   create pat in github, copy pat_string (save somewhere, because you can't see it in github later
+>
+> -   set PAT: in console: gitcreds::gitcreds_set(), than insert pat string
