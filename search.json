@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog des MethodenKompetenzZentrums",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Über uns",
     "section": "",
-    "text": "Sortieren nach\n       Voreinstellung\n         \n          Titel\n        \n         \n          Datum - Datum (aufsteigend)\n        \n         \n          Datum - Neueste\n        \n         \n          Autor:in\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nHowToBlog #1: setup work environment\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nHowToBlog #2: publish new post\n\n\n\n\n\n\nHowToBlog\n\n\n\npublish a new blog post\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\nKeine Treffer"
-  },
-  {
-    "objectID": "menu/curses/R_rookie/index.html",
-    "href": "menu/curses/R_rookie/index.html",
-    "title": "R für Rookies",
-    "section": "",
-    "text": "Hier folgen alle Informationen zu R für Rookies\nListe aller zugehörigen Posts"
+    "text": "Dies ist der offizielle Blog des MethodenKompetenzZentrums der TU Chemnitz\nHier folgt eine Vorstellung des MKZ und des Inhalts des Blogs"
   },
   {
     "objectID": "posts/anleitung_vorbereitung/index.html",
@@ -21,11 +14,18 @@
     "text": "You will need:\n\ngit (https://git-scm.com/downloads)\nR (https://cran.r-project.org/)\nRStudio (https://posit.co/download/rstudio-desktop/)&lt;\nRTools (https://cran.r-project.org/bin/windows/Rtools/)\nQuarto (https://quarto.org/docs/get-started/)\n\nDownload and install software. If you already have some of it, then make sure everything is the latest version.\n\n\nWhen using Windows, install RStudio and RTools to C:\\\n(default path: C:\\program files\\ may cause errors\n\nnmn"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Über Uns",
+    "objectID": "menu/projects/project_1/index.html",
+    "href": "menu/projects/project_1/index.html",
+    "title": "Projekt 1",
     "section": "",
-    "text": "Dies ist der offizielle Blog des MethodenKompetenzZentrums\nHier folgt eine Vorstellung des MKZ und des Inhalts des Blogs"
+    "text": "Hier folgen alle Informationen zu Projekt 1.\nListe aller zugehörigen Posts"
+  },
+  {
+    "objectID": "menu/curses/R_rookie/index.html",
+    "href": "menu/curses/R_rookie/index.html",
+    "title": "R für Rookies",
+    "section": "",
+    "text": "Hier folgen alle Informationen zu R für Rookies\nListe aller zugehörigen Posts"
   },
   {
     "objectID": "posts/anleitung_neuer_post/index.html",
@@ -35,10 +35,10 @@
     "text": "create new Folder in posts directory\ncreate new index.qmd file\nadd Metadata to index.qmd (or copy and edit from other post)\nadd content\n…\nprofit"
   },
   {
-    "objectID": "menu/projects/project_1/index.html",
-    "href": "menu/projects/project_1/index.html",
-    "title": "Projekt 1",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog des MethodenKompetenzZentrums",
     "section": "",
-    "text": "Hier folgen alle Informationen zu Projekt 1.\nListe aller zugehörigen Posts"
+    "text": "Sortieren nach\n       Voreinstellung\n         \n          Titel\n        \n         \n          Datum - Datum (aufsteigend)\n        \n         \n          Datum - Neueste\n        \n         \n          Autor:in\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nHowToBlog #2: publish new post\n\n\n\n\n\n\nHowToBlog\n\n\n\npublish a new blog post\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\n\n\n\n\n\n\nHowToBlog #1: setup work environment\n\n\n\n\n\n\nHowToBlog\n\n\n\n\n\n\n\n\n\n21.01.2024\n\n\nMarcel Hanschmann\n\n\n\n\n\n\nKeine Treffer"
   }
 ]

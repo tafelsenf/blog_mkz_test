@@ -2,8 +2,8 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/anleitung_vorbereitung/index.html",
-      "/posts/anleitung_neuer_post/index.html"
+      "/posts/anleitung_neuer_post/index.html",
+      "/posts/anleitung_vorbereitung/index.html"
     ]
   }
 ]
