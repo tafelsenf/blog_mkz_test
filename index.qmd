@@ -1,5 +1,5 @@
 ---
-title: "Über Uns"
+title: "Über uns"
 
 about:
   template: jolla
@@ -12,6 +12,6 @@ about:
 
 ![](images/logo_mkz.jpg){width="500"}
 
-Dies ist der offizielle Blog des MethodenKompetenzZentrums
+Dies ist der offizielle Blog des MethodenKompetenzZentrums der TU Chemnitz
 
 Hier folgt eine Vorstellung des MKZ und des Inhalts des Blogs
